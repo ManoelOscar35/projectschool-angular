@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ProjectSchool';
+
+  popText: any;
+  applyShadow: any;
+  isSmallScreen: any;
+  sidenavMode: any;
 }
